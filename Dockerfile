@@ -1,7 +1,4 @@
 
-#RUN apt-get update && apt-get install libffi-dev libssl-dev RUN 
-#apt-get install -y python python-pip
-
 
 FROM python
 
